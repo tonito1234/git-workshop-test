@@ -5,4 +5,10 @@ public Alumn(){
 	
 }
 
+public void estudio(){
+
+//cogigo antonio
+
+}
+
 }
